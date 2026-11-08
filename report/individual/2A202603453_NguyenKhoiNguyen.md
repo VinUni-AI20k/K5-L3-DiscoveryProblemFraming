@@ -5,8 +5,8 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
+- Họ tên: Nguyễn Khôi Nguyên
+- MSSV: 2A202603453
 - Email trường (không bắt buộc, repo có thể để public):
 - Tên nhóm:
 - Link repository:
